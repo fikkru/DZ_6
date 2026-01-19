@@ -8,3 +8,5 @@ def trim_and_repeat(text, offset=0, repetitions=1):
 
 print("Тестирование функции trim_and_repeat:")
 print("-" * 50)
+
+#добавление изменений
